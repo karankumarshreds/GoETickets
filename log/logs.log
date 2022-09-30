@@ -1,3 +1,4 @@
-LOG:	2022/09/30 01:49:42 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:20: Initializing app
-LOG:	2022/09/30 01:56:21 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
-LOG:	2022/09/30 02:09:39 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
+LOG:	2022/09/30 02:11:16 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
+LOG:	2022/09/30 12:56:14 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
+LOG:	2022/09/30 12:57:50 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
+LOG:	2022/09/30 13:16:44 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
