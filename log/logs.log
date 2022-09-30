@@ -2,3 +2,10 @@ LOG:	2022/09/30 02:11:16 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: In
 LOG:	2022/09/30 12:56:14 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
 LOG:	2022/09/30 12:57:50 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
 LOG:	2022/09/30 13:16:44 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:19: Initializing app
+LOG:	2022/09/30 18:48:53 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:22: Initializing app
+LOG:	2022/09/30 18:48:53 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:28: Running app
+LOG:	2022/09/30 18:50:09 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:22: Initializing app
+LOG:	2022/09/30 18:50:09 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:28: Running app on :8000
+LOG:	2022/09/30 18:51:04 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:22: Initializing app
+LOG:	2022/09/30 18:51:04 C:/Users/illum/Work/Code/go-redis/cmd/app/app.go:28: Running app on :8000
+LOG:	2022/09/30 18:51:06 C:/Users/illum/Work/Code/go-redis/internal/handlers/auth.go:17: Signin handler

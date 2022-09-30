@@ -33,5 +33,6 @@ func main() {
 	// app setup
 	a := app.NewApp(logger)
 	a.Init()
+	a.Run()
 	
 }
